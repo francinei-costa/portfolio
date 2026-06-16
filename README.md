@@ -35,19 +35,19 @@ Tenho vivência em projetos que exigem arquitetura limpa, comunicação eficient
 
 ## 🚀 Projetos em destaque
 
-### [crm-system](https://github.com/nei0304/crm-system)
+### [crm-system](https://github.com/portfolio/crm-system)
 CRM para gestão de leads e fluxo comercial.  
 Demonstra visão de negócio aplicada ao desenvolvimento, organização de pipelines e orientação a produto.
 
-### [react-dotnet](https://github.com/nei0304/react-dotnet)
+### [react-dotnet](https://github.com/portfolio/react-dotnet)
 Aplicação full stack com React no front-end e .NET no back-end.  
 Demonstra integração sólida entre camadas, separação de responsabilidades e boas práticas de API.
 
-### [websocket](https://github.com/nei0304/websocket)
+### [websocket](https://github.com/portfolio/websocket)
 Comunicação em tempo real com arquitetura orientada a eventos.  
 Demonstra uso de WebSocket, gestão de estado assíncrono e design de sistemas reativos.
 
-### [microfrontend](https://github.com/nei0304/microfrontend)
+### [microfrontend](https://github.com/portfolio/microfrontend)
 Arquitetura de microfrontend para aplicações front-end escaláveis.  
 Demonstra modularidade, autonomia de times e separação de domínios em sistemas de grande porte.
 
@@ -85,12 +85,12 @@ Git · GitHub · GitLab · Docker
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/nei0304">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nei0304&show_icons=true&theme=blue-green" alt="GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nei0304&layout=compact&theme=blue-green" alt="Top languages" />
+  <a href="https://github.com/portfolio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=portfolio&show_icons=true&theme=blue-green" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfolio&layout=compact&theme=blue-green" alt="Top languages" />
   </a>
 </div>
 
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=nei0304&theme=react&background=000&border=30A3DC&dates=FFF" alt="GitHub streak" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=portfolio&theme=react&background=000&border=30A3DC&dates=FFF" alt="GitHub streak" />
 </div>
