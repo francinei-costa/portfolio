@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack | React · TypeScript · .NET · C# · Node.js</strong>
+  <strong>Desenvolvedor Full Stack | React · TypeScript · FastAPI · .NET · C# · Node.js</strong>
 </p>
 
 <p align="center">
@@ -27,13 +27,21 @@ Tenho vivência em projetos que exigem arquitetura limpa, comunicação eficient
 ## ✅ Principais forças
 
 - **React** e **TypeScript** — interfaces modernas, performáticas e acessíveis
-- **.NET / C#** e **Node.js** — APIs robustas, bem estruturadas e escaláveis
+- **FastAPI / Python**, **.NET / C#** e **Node.js** — APIs robustas, bem estruturadas e escaláveis
 - **WebSocket** e **SignalR** — soluções em tempo real e comunicação orientada a eventos
 - Arquitetura modular, código limpo e boas práticas de engenharia de software
 
 ---
 
 ## 🚀 Projetos em destaque
+
+### [fastapi-clean-arch](https://github.com/francinei-costa/fastapi-clean-arch)
+Aplicação de controle de estacionamento com frontend em React e backend em FastAPI.  
+Demonstra aplicação de **Clean Architecture**, separação de responsabilidades e integração eficiente entre front-end e API.
+
+### [azs-web-rickandmorty](https://github.com/francinei-costa/azs-web-rickandmorty)
+Desafio Front-end Web com foco em experiência de usuário, componentização e consumo de API.  
+Demonstra organização de código em React + TypeScript, reutilização de componentes e boas práticas de interface.
 
 ### [crm-system](https://github.com/francinei-costa/crm-system)
 CRM para gestão de leads e fluxo comercial.  
@@ -47,19 +55,18 @@ Demonstra integração sólida entre camadas, separação de responsabilidades e
 Comunicação em tempo real com arquitetura orientada a eventos.  
 Demonstra uso de WebSocket, gestão de estado assíncrono e design de sistemas reativos.
 
-### [microfrontend](https://github.com/francinei-costa/microfrontend)
-Arquitetura de microfrontend para aplicações front-end escaláveis.  
-Demonstra modularidade, autonomia de times e separação de domínios em sistemas de grande porte.
-
 ---
 
 ## 🛠️ Stack
 
 **Front-end**  
-React · TypeScript · Angular · JavaScript · HTML · CSS
+React · TypeScript · Vite · Angular · JavaScript · HTML · CSS
 
 **Back-end**  
-.NET · C# · Node.js · Express
+FastAPI · Python · .NET · C# · Node.js · Express
+
+**Tempo real**  
+WebSocket · SignalR
 
 **Banco de dados**  
 SQL Server · MySQL · Oracle
