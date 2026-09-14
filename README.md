@@ -1,9 +1,5 @@
 # Francinei Cardoso Costa
 
-<p align="right">
-  <a href="./README.en.md">English version</a>
-</p>
-
 <p align="center">
   <strong>🚀 Desenvolvedor Full-Stack | React.js | Angular | TypeScript | Node.js | Python | C# | .NET</strong>
 </p>
@@ -41,7 +37,7 @@ Tenho vivência em projetos que exigem **arquitetura limpa**, **comunicação ef
 
 ## 🚀 Projetos em Destaque
 
-### 1️⃣ [fastapi-clean-arch](https://github.com/francinei-costa/fastapi-clean-arch)
+### 1️⃣ [Parking Control](https://github.com/francinei-costa/fastapi-clean-arch)
 
 **Controle de Estacionamento - Full Stack**
 
