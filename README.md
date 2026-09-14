@@ -74,7 +74,7 @@ Aplicação moderna de catálogo com **251 Pokémon** utilizando **Next.js 16** 
 
 ---
 
-### 2️⃣ [fastapi-clean-arch](https://github.com/francinei-costa/fastapi-clean-arch)
+### 2️⃣ [Parking Control](https://github.com/francinei-costa/fastapi-clean-arch)
 
 **Controle de Estacionamento - Full Stack**
 
