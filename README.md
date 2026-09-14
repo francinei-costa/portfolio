@@ -158,7 +158,7 @@ Integração sólida entre **React** no front-end e **.NET** no back-end, demons
 
 ---
 
-### 5️⃣ [azs-web-rickandmorty](https://github.com/francinei-costa/azs-web-rickandmorty)
+### 5️⃣ [episodes-rickandmorty](https://github.com/francinei-costa/azs-web-rickandmorty)
 
 **Desafio Front-end - Rick and Morty API**
 
