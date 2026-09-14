@@ -1,5 +1,9 @@
 # Francinei Cardoso Costa
 
+<p align="right">
+  <a href="./README.en.md">English version</a>
+</p>
+
 <p align="center">
   <strong>🚀 Desenvolvedor Full-Stack | React.js | Angular | TypeScript | Node.js | Python | C# | .NET</strong>
 </p>
@@ -27,7 +31,7 @@ Tenho vivência em projetos que exigem **arquitetura limpa**, **comunicação ef
 
 | Área | Tecnologias |
 |------|-------------|
-| **Frontend** | React · TypeScript · Angular · Vite · HTML · CSS |
+| **Frontend** | React · TypeScript · Angular · Next.js · Vite · Tailwind CSS · HTML · CSS |
 | **Backend** | Node.js · Express · FastAPI · Python · .NET · C# |
 | **Tempo Real** | WebSocket · SignalR · Fastify |
 | **Dados** | SQL Server · MySQL · Oracle |
@@ -37,7 +41,40 @@ Tenho vivência em projetos que exigem **arquitetura limpa**, **comunicação ef
 
 ## 🚀 Projetos em Destaque
 
-### 1️⃣ [Parking Control](https://github.com/francinei-costa/fastapi-clean-arch)
+### 1️⃣ [next-pokemon](https://github.com/francinei-costa/next-pokemon)
+
+**Catálogo Pokémon - Next.js + PokeAPI**
+
+Aplicação moderna de catálogo com **251 Pokémon** utilizando **Next.js 16** com App Router e integração com **PokeAPI pública**. Demonstra SSR, geração estática e otimização de performance.
+
+**Badges:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Destaques:**
+- ✅ App Router do Next.js com rotas dinâmicas
+- ✅ Server-Side Rendering (SSR) e Static Generation
+- ✅ Integração com PokeAPI pública
+- ✅ Renderização estática otimizada (primeiros 10 Pokémon)
+- ✅ Design responsivo com Tailwind CSS
+- ✅ Tipos de Pokémon com cores específicas
+
+**Stack Técnico:**
+- **Framework:** Next.js 16.3.0 + App Router
+- **Frontend:** React 19 + TypeScript 5
+- **Styling:** Tailwind CSS 4
+- **API:** PokeAPI pública (https://pokeapi.co/)
+- **Performance:** ISR (Incremental Static Regeneration)
+
+**Links:**
+- 📂 [Repositório](https://github.com/francinei-costa/next-pokemon)
+- 🌐 [Demo ao vivo](https://next-pokemon-alpha.vercel.app)
+
+---
+
+### 2️⃣ [fastapi-clean-arch](https://github.com/francinei-costa/fastapi-clean-arch)
 
 **Controle de Estacionamento - Full Stack**
 
@@ -60,7 +97,7 @@ Aplicação completa de controle de estacionamento com frontend em **React** e b
 
 ---
 
-### 2️⃣ [crm-system](https://github.com/francinei-costa/crm-system)
+### 3️⃣ [crm-system](https://github.com/francinei-costa/crm-system)
 
 **CRM para Gestão de Leads e Fluxo Comercial**
 
@@ -91,7 +128,7 @@ Sistema robusto de CRM para gerenciamento de leads e pipeline comercial. Demonst
 
 ---
 
-### 3️⃣ [react-dotnet](https://github.com/francinei-costa/react-dotnet)
+### 4️⃣ [react-dotnet](https://github.com/francinei-costa/react-dotnet)
 
 **Aplicação Full Stack - React + .NET**
 
@@ -121,7 +158,7 @@ Integração sólida entre **React** no front-end e **.NET** no back-end, demons
 
 ---
 
-### 4️⃣ [web-rickandmorty](https://github.com/francinei-costa/azs-web-rickandmorty)
+### 5️⃣ [azs-web-rickandmorty](https://github.com/francinei-costa/azs-web-rickandmorty)
 
 **Desafio Front-end - Rick and Morty API**
 
@@ -144,7 +181,7 @@ Aplicação front-end com foco em **experiência de usuário**, **componentizaç
 
 ---
 
-### 5️⃣ [websocket](https://github.com/francinei-costa/websocket)
+### 6️⃣ [websocket](https://github.com/francinei-costa/websocket)
 
 **Comunicação em Tempo Real - WebSocket Architecture**
 
@@ -181,7 +218,9 @@ Arquitetura orientada a **eventos** para comunicação em tempo real. Demonstra 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### **Backend**
