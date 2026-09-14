@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack | React · TypeScript · FastAPI · .NET · C# · Node.js</strong>
+  <strong>Desenvolvedor Full-Stack | React.js | Angular | TypeScript | Node.js | Python | C# | .NET</strong>
 </p>
 
 <p align="center">
@@ -27,8 +27,7 @@ Tenho vivência em projetos que exigem arquitetura limpa, comunicação eficient
 ## ✅ Principais forças
 
 - **React** e **TypeScript** — interfaces modernas, performáticas e acessíveis
-- **FastAPI / Python**, **.NET / C#** e **Node.js** — APIs robustas, bem estruturadas e escaláveis
-- **WebSocket** e **SignalR** — soluções em tempo real e comunicação orientada a eventos
+- **Node.js**,**Python** e **.NET / C#** — APIs robustas, bem estruturadas e escaláveis
 - Arquitetura modular, código limpo e boas práticas de engenharia de software
 
 ---
